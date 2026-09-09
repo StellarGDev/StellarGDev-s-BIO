@@ -8,7 +8,7 @@ scratch.mit.edu page: https://scratch.mit.edu/users/conplayno12345678
 
 pixilart.com page: https://pixilart.com/stellargdev
 
-youtube.com page: https://youtube.com/@stellarcreates
+youtube.com page: https://youtube.com/@stellarcreate
 
 itch.io page: https://stellargdev.itch.io
 
